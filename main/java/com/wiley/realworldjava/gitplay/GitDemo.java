@@ -15,6 +15,10 @@ public class GitDemo {
        GitDemo demo = new GitDemo("Hello, Git!");
 
         // Display the initial description
+        demo.displayDescription();      // Make some change and commit
+
+        // Make more change and commit
+        demo.description = "Version control with Git is fun and easy.";
         demo.displayDescription();
     }
 }
