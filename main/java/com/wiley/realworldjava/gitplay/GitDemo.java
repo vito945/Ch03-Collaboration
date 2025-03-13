@@ -16,5 +16,9 @@ public class GitDemo {
 
         // Display the initial description
         demo.displayDescription();
+
+        // Make more changes and commit
+        demo.description = "Git is powerful.";
+        demo.displayDescription();
     }
 }
