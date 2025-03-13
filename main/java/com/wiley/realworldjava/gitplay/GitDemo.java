@@ -18,11 +18,7 @@ public class GitDemo {
         demo.displayDescription();      // Make some change and commit
 
         // Make more change and commit
-        demo.description = "Version control with Git is fun and easy.";
-        demo.displayDescription();
-
-        // Make more changes and commit
-        demo.description = "Git is powerful.";
+        demo.description = "Git is fun and easy, and very powerful.";
         demo.displayDescription();
     }
 }
