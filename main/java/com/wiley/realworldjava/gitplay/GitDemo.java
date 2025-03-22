@@ -24,5 +24,9 @@ public class GitDemo {
         // Make another change
         demo.description = "Changes for rebase";
         demo.displayDescription();
+
+        // And yet another change
+        demo.description = "Change2 for rebase";
+        demo.displayDescription();
     }
 }
