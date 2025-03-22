@@ -20,5 +20,9 @@ public class GitDemo {
         // Make more change and commit
         demo.description = "Git is fun and easy, and very powerful.";
         demo.displayDescription();
+
+        // Make another change
+        demo.description = "Changes for rebase";
+        demo.displayDescription();
     }
 }
