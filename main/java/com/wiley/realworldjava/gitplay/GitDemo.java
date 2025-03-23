@@ -14,8 +14,8 @@ public class GitDemo {
     public static void main(String[] args) {
        GitDemo demo = new GitDemo("Hello, Git!");
 
-        // Display the initial description
-        demo.displayDescription();      // Make some change and commit
+       demo.description = "Continuing on branch";
+       demo.displayDescription();      // Make some change and commit
 
         // Make more change and commit
         demo.description = "Git is fun and easy, and very powerful.";
