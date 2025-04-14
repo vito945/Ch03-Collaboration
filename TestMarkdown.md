@@ -30,3 +30,11 @@ But with a line break becomes a new paragraph.
 https://some-link.com
 
 [This is the text](https://some-link.com)
+
+```java
+public class HelloMarkdown {
+    public static void main(String[] args) {
+        System.out.println("Hello, Markdown!");
+    }
+}
+```
