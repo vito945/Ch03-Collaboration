@@ -31,6 +31,7 @@ https://some-link.com
 
 [This is the text](https://some-link.com)
 
+For example:
 ```java
 public class HelloMarkdown {
     public static void main(String[] args) {
