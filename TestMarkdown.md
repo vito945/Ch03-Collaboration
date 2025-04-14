@@ -14,3 +14,7 @@ But with a line break becomes a new paragraph.
 ##### Header 5
 
 ###### Header 6
+
+*This is italicized*
+
+**This is bold**
